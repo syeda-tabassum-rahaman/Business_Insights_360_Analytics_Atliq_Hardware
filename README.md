@@ -2,7 +2,7 @@
 
 **[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjc0ZDVhM2YtOGEwNS00MDZmLWEwMTAtZDQ0MmRmYmY5MDkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
-*(<img width="866" height="557" alt="Home" src="https://github.com/user-attachments/assets/180e371c-7cea-4dad-a910-8c0ccd221e4b" />)*
+*<img width="500" alt="Home" src="https://github.com/user-attachments/assets/180e371c-7cea-4dad-a910-8c0ccd221e4b" />*
 
 ## 📌 Project Overview & Business Value
 
@@ -49,7 +49,7 @@ A robust **Snowflake Schema** was designed to optimize performance and accuratel
 * **Core Structure:** Centralized Fact tables (Sales, Forecasts, Actuals) are connected to surrounding Dimension tables (Custom Fiscal Date, Customer, Product, Market).
 * **Performance Optimization:** Heavy data transformations and denormalization were handled upstream in Power Query. Redundant DAX calculated columns were intentionally minimized in the front-end to keep the file size lean and the dashboard highly responsive.
 
-*(<img width="725" height="788" alt="data model" src="https://github.com/user-attachments/assets/efac6507-1fb2-440f-97a8-5302257b932a" />)*
+*<img width="400" alt="data model" src="https://github.com/user-attachments/assets/efac6507-1fb2-440f-97a8-5302257b932a" />*
 
 ## 🎯 Conclusion & Business Impact
 The "Business Insights 360" project successfully transforms AtliQ Hardware's analytical capabilities from reactive to proactive. The company is no longer operating in the dark or relying on fragmented spreadsheets. By consolidating millions of rows of data into a single, highly responsive dashboard, leadership can now confidently pinpoint loss-making areas, optimize supply chain forecasting, and make data-driven decisions to regain their competitive edge in the market.
